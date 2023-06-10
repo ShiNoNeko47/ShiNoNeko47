@@ -9,6 +9,6 @@
 
   You can reach me on Twitter, Discord (<b>ShiNoNeko47#3659</b>) or by e-mail.
 
-[![Top Langs](https://github-readme-stats-shinoneko47.vercel.app/api/top-langs/?username=ShiNoNeko47&exclude_repo=dotfiles&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-shinoneko47.vercel.app/api/top-langs/?username=ShiNoNeko47&exclude_repo=dotfiles&layout=compact&theme=dark)](https://github.com/shinoneko47/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-shinoneko47.vercel.app/api?username=ShiNoNeko47&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ShiNoNeko47's GitHub stats](https://github-readme-stats-shinoneko47.vercel.app/api?username=ShiNoNeko47&theme=dark)](https://github.com/shinoneko47/github-readme-stats)
