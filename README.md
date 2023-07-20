@@ -1,7 +1,5 @@
 ### Hi there,
 
-<img src="https://c.tenor.com/h6OBajx3djQAAAAC/rena-ryuugu-rena.gif" width="405">
-
   my name is Nikola.
   I'm 20.
 
